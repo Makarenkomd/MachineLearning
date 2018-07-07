@@ -1,2 +1,2 @@
 # MachineLearning
-Все проекты связанные с машинным обучением
+ML BOOTCamp mail.ru
